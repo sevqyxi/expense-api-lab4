@@ -1,0 +1,8 @@
+name: Local
+variables:
+- name: baseUrl
+  value: http://127.0.0.1:8000
+- name: adminUsername
+  value: admin
+- name: adminPassword
+  value: Admin12345

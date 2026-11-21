@@ -1,0 +1,16 @@
+opencollection: 1.0.0
+info:
+  name: Expense API (Lab 4)
+request:
+  variables:
+  - name: baseUrl
+    value: http://127.0.0.1:8000
+  - name: adminUsername
+    value: admin
+  - name: adminPassword
+    value: Admin12345
+extensions:
+  bruno:
+    ignore:
+    - node_modules
+    - .git
